@@ -18,7 +18,7 @@ import java.time.LocalDateTime;
  * Created by michaeldelli-gatti on 6/23/16.
  */
 @Controller
-public class CallenderSpringController {
+public class CalendarSpringController {
 
     @Autowired
     UserRepositroy users;
